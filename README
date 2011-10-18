@@ -1,0 +1,6 @@
+Django Test Example
+
+This is an EXTREMELY simple Django test project. It takes an input from a path and returns a capitalized version of that
+input to the screen.
+
+
